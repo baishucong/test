@@ -1,1 +1,2 @@
-hello java
+hello ja
+hello word
